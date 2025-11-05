@@ -27,15 +27,15 @@ export const ProjectList = [
     demo_url: "https://sen-pai-11.github.io/Basic-portfolio/",
   },
 
-  // {
-  //   // img: "https://i.ibb.co/JKLcM1g/hand-Sanitizer.png",
-  //   // title: "HandSanitizer Clone",
-  //   // description:
-  //   //   "This is a clone of HAAN Store which is an e-commerce website mainly focused on personal care and branding of the same. Worked on Product Detail page and Checkout page of website.",
-  //   // tech_stack: "HTML, CSS, Javascript, ES6",
-  //   // github_url: "https://github.com/samarjeetpatankar/Hand-Sanitizer-website",
-  //   // demo_url: "https://haan-website-clone-pt12.netlify.app/",
-  // },
+  {
+    // img: "https://i.ibb.co/JKLcM1g/hand-Sanitizer.png",
+    title: "NetflixGPT - major Project",
+    description:
+      "Please be Patient, Working on it, Great things take time :)",
+    tech_stack: "HTML, CSS, Javascript, ReactJS.",
+    // github_url: "https://github.com/samarjeetpatankar/Hand-Sanitizer-website",
+    // demo_url: "https://haan-website-clone-pt12.netlify.app/",
+  },
   // {
   //   title: "please wait, Good things take time"
   // }
