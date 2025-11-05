@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/Portfolio-yash/static/css/main.3f47287d.css",
-    "main.js": "/Portfolio-yash/static/js/main.08947f94.js",
+    "main.js": "/Portfolio-yash/static/js/main.17244934.js",
     "static/js/453.dc33b25b.chunk.js": "/Portfolio-yash/static/js/453.dc33b25b.chunk.js",
     "static/media/Gaurav-Panchal-Resume.pdf": "/Portfolio-yash/static/media/Gaurav-Panchal-Resume.6a1db890b6f01ef785ba.pdf",
     "static/media/Yashimg.png": "/Portfolio-yash/static/media/Yashimg.2c137569517c7c279a1e.png",
     "static/media/YP-resumee.pdf": "/Portfolio-yash/static/media/YP-resumee.0cf28d2fb7486160c414.pdf",
     "index.html": "/Portfolio-yash/index.html",
     "main.3f47287d.css.map": "/Portfolio-yash/static/css/main.3f47287d.css.map",
-    "main.08947f94.js.map": "/Portfolio-yash/static/js/main.08947f94.js.map",
+    "main.17244934.js.map": "/Portfolio-yash/static/js/main.17244934.js.map",
     "453.dc33b25b.chunk.js.map": "/Portfolio-yash/static/js/453.dc33b25b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3f47287d.css",
-    "static/js/main.08947f94.js"
+    "static/js/main.17244934.js"
   ]
 }
