@@ -1,11 +1,11 @@
-import Gaurav_Resume from "./Gaurav-Panchal-Resume.pdf";
-import Yash_Resume from "./YP-resumee.pdf";
+// import Gaurav_Resume from "./Gaurav-Panchal-Resume.pdf";
+import Yash_Resume from "./Yp-resume.pdf";
 import styled from "styled-components";
 import { Button } from "./ResumeElements";
 export const Resume2 = () => {
   const openResume = () => {
     window.open(
-      "https://drive.google.com/file/d/1vDUWY68mu-3AC9-dXrLWT6vYpNNdvlU9/view?usp=sharing"
+      "https://drive.google.com/file/d/1mwQASEvgdLiy0b1i8T_eZdzQ9Pj9QX2e/view?usp=sharing"
     );
   };
 
