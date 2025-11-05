@@ -17,16 +17,15 @@ export const ProjectList = [
     github_url: "https://github.com/Sen-Pai-11/Simple-Calculator",
     demo_url: "https://sen-pai-11.github.io/Simple-Calculator/",
   },
-  // {
-  //   img: "https://i.ibb.co/cTcfv46/Whats-App-Image-2023-12-20-at-4-41-39-PM.jpg",
-  //   title: "React-Native-Jobs",
-  //   description:
-  //     "Your streamlined path to dream jobs. Effortless search, clean design, and real-time data. Scan the Expo QR code for instant exploration.",
-  //   tech_stack: "HTML, CSS, Javascript, React-Native",
-  //   github_url: "https://github.com/gauravhpanchal/React-Native-Jobs",
-  //   demo_url:
-  //     "https://qr.expo.dev/eas-update?updateId=80825bbd-afd1-46f4-8168-65a85874b6ed&appScheme=exp&host=u.expo.dev",
-  // },
+  {
+    img: "https://i.postimg.cc/RhNbbVRy/Screenshot-2025-11-05-135944.png",
+    title: "basic Personal Portfolio",
+    description:
+      "My passion lies in creating elegantly simple designs and writing clean code. I find immense joy in the work I do and take pride in my abilities.",
+    tech_stack: "HTML, CSS, Javascript",
+    github_url: "https://github.com/Sen-Pai-11/Basic-portfolio",
+    demo_url: "https://sen-pai-11.github.io/Basic-portfolio/",
+  },
 
   // {
   //   // img: "https://i.ibb.co/JKLcM1g/hand-Sanitizer.png",
