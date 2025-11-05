@@ -14,8 +14,8 @@ export const ProjectList = [
     title: "Simple Calculator",
     description: `This is a simple calculator build using ReactJS. It can perform basic arithmetic operations like addition, subtraction, multiplication, and division.`,
     tech_stack: "HTML, CSS, Javascript, ES6, ReactJS",
-    github_url: "https://github.com/samarjeetpatankar/SkinStore-clone",
-    demo_url: "https://skinstore-clone-pt12.netlify.app/",
+    github_url: "https://github.com/Sen-Pai-11/Simple-Calculator",
+    demo_url: "https://sen-pai-11.github.io/Simple-Calculator/",
   },
   // {
   //   img: "https://i.ibb.co/cTcfv46/Whats-App-Image-2023-12-20-at-4-41-39-PM.jpg",
