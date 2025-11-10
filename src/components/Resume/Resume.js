@@ -1,11 +1,11 @@
 // import Gaurav_Resume from "./Gaurav-Panchal-Resume.pdf";
-import Yash_Resume from "./Yp-resume.pdf";
+import Yash_Resume from "./YP-resume-normal.pdf";
 import styled from "styled-components";
 import { Button } from "./ResumeElements";
 export const Resume2 = () => {
   const openResume = () => {
     window.open(
-      "https://drive.google.com/file/d/1mwQASEvgdLiy0b1i8T_eZdzQ9Pj9QX2e/view?usp=sharing"
+      "https://drive.google.com/file/d/1eGwVKiDGzBzq7GPC8y4kBuQDqcCGXr6p/view?usp=sharing"
     );
   };
 
@@ -13,7 +13,7 @@ export const Resume2 = () => {
     <div>
       <a
         href={Yash_Resume}
-        download="YP_resumee"
+        download="YP-resume-normal.pdf"
         className="nav-link resume"
         id="resume-button-1 resume-link-1"
       >
